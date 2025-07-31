@@ -1,8 +1,8 @@
 import React from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import Facial from "../assets/facial.webp";
-import Play from "../assets/Play.svg";
+import Facial from "../assets/trainingModules/facial.webp";
+import Play from "../assets/trainingModules/Play.svg";
 import "../styles/Training_modules.css";
 import { useNavigate } from "react-router-dom";
 
