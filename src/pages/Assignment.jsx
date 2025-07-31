@@ -3,7 +3,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Play from "../assets/Play.svg";
 import assignmentlogo from "../assets/assignment/assignment-logo.svg";
-import assignmentOverview from "../assets/assignment/assignment-overview.png";
+import assignmentOverview from "../assets/assignment/assignment-overview.webp";
 import assignmentOverviewFrame from "../assets/assignment/assignment-overview-frame.png";
 import timeLine from "../assets/assignment/time-line.svg";
 import duration from "../assets/assignment/duration.svg";
