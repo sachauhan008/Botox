@@ -6,7 +6,7 @@ import { toast } from "react-toastify";
 import logo1 from "../assets/payment/logo1.svg";
 import icon from "../assets/payment/true.png";
 import visa from "../assets/payment/VISA.svg";
-import mastercard from "../assets/payment/MasterCard.svg";
+import mastercard from "../assets/payment/Mastercard.svg";
 import amex from "../assets/payment/AMEX.svg";
 import discover from "../assets/payment/Discover.svg";
 
