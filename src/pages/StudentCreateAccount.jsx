@@ -98,8 +98,8 @@ function StudentCreateAccount() {
             <div className="line"></div>
 
             <form onSubmit={formik.handleSubmit}>
-              <div className="d-flex gap-2 m-0">
-                <div className="col-md-6 field p-0">
+              <div className="d-flex gap-2 m-0 w-100">
+                <div className="w-50 field ">
                   <label>First Name</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
@@ -121,7 +121,7 @@ function StudentCreateAccount() {
                   )}
                 </div>
 
-                <div className="col-md-6 field p-0">
+                <div className="w-50 field ">
                   <label>Last Name</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
@@ -188,8 +188,8 @@ function StudentCreateAccount() {
                 )}
               </div>
 
-              <div className="d-flex gap-2 m-0">
-                <div className="col-md-6 field p-0">
+              <div className="d-flex gap-2 w-100 m-0">
+                <div className="w-50 field p-0">
                   <label>Password</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
@@ -211,7 +211,7 @@ function StudentCreateAccount() {
                   )}
                 </div>
 
-                <div className="col-md-6 field p-0">
+                <div className="w-50 field p-0">
                   <label>Confirm Password</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">

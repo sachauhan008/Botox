@@ -123,8 +123,8 @@ function OrganizationCreateAccount() {
                 )}
               </div>
 
-              <div className="d-flex gap-2 m-0">
-                <div className="col-md-6 field p-0">
+              <div className="d-flex gap-2 w-100 m-0">
+                <div className="w-50 field p-0">
                   <label>First Name</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
@@ -146,7 +146,7 @@ function OrganizationCreateAccount() {
                   )}
                 </div>
 
-                <div className="col-md-6 field p-0">
+                <div className="w-50 field p-0">
                   <label>Last Name</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
@@ -169,8 +169,8 @@ function OrganizationCreateAccount() {
                 </div>
               </div>
 
-              <div className="d-flex gap-2 m-0">
-                <div className=" col-md-6 field p-0">
+              <div className="d-flex gap-2 w-100 m-0">
+                <div className=" w-50 field p-0">
                   <label>Email Address</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
@@ -192,7 +192,7 @@ function OrganizationCreateAccount() {
                   )}
                 </div>
 
-                <div className=" col-md-6 field p-0">
+                <div className=" w-50 field p-0">
                   <label>Phone Number</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
@@ -215,8 +215,8 @@ function OrganizationCreateAccount() {
                 </div>
               </div>
 
-              <div className="d-flex gap-2 m-0">
-                <div className="col-md-6 field p-0">
+              <div className="d-flex gap-2 w-100 m-0">
+                <div className="w-50 field p-0">
                   <label>Password</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
@@ -238,7 +238,7 @@ function OrganizationCreateAccount() {
                   )}
                 </div>
 
-                <div className="col-md-6 field p-0">
+                <div className="w-50 field p-0">
                   <label>Confirm Password</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
