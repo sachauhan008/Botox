@@ -121,7 +121,7 @@ function StudentCreateAccount() {
                   )}
                 </div>
 
-                <div className="col-md-6 field">
+                <div className="col-md-6 field p-0">
                   <label>Last Name</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
@@ -188,8 +188,8 @@ function StudentCreateAccount() {
                 )}
               </div>
 
-              <div className="row">
-                <div className="col-md-6 field">
+              <div className="d-flex gap-2 m-0">
+                <div className="col-md-6 field p-0">
                   <label>Password</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
@@ -211,7 +211,7 @@ function StudentCreateAccount() {
                   )}
                 </div>
 
-                <div className="col-md-6 field">
+                <div className="col-md-6 field p-0">
                   <label>Confirm Password</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
