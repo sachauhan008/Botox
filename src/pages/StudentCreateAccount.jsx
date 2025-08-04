@@ -98,8 +98,8 @@ function StudentCreateAccount() {
             <div className="line"></div>
 
             <form onSubmit={formik.handleSubmit}>
-              <div className="row">
-                <div className="col-md-6 field">
+              <div className="d-flex gap-2 m-0">
+                <div className="col-md-6 field p-0">
                   <label>First Name</label>
                   <div className="input-group custom-input-group">
                     <span className="custom-input-icon m-0">
